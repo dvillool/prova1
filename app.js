@@ -8,5 +8,8 @@ function fuckShit() {
 fuckShit();
 
 
-setInterval(fuckShit, 1000);
+setInterval(fuckShit, 1000)
 
+
+
+console.log('ibi');
