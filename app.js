@@ -10,8 +10,7 @@ function fuckShit() {
     console.log('brian');
 };
 fuckShit();
-
-asdsadasds
+asdsadsa
 
 
 
