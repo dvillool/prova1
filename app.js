@@ -10,4 +10,14 @@ function fuckShit() {
 };
 fuckShit();
 
+
 console.log('holaaaaaaaa')
+
+
+setInterval(fuckShit, 1000)
+
+
+
+console.log('ibi');
+
+asdsada
