@@ -1,13 +1,18 @@
-console.log('git sucks');
 
 
 
 
 
-function fuckShit() {
 
+function fuckShit(number) {
+for (let index = 0; index < number; index++) {
     console.log('brian');
+    console.log('git sucks');
+}
+
+    
 };
-fuckShit();
+fuckShit(20);
 
 console.log('holaaaaaaaa')
+
