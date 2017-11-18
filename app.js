@@ -1,14 +1,25 @@
-console.log('git sucks');
+function fuckShit(number) {
+    for (let index = 0; index < number; index++) {
+        console.log('brian');
+        console.log('git sucks');
+    }
 
 
-
-
-
-function fuckShit() {
-
-    console.log('brian');
 };
-fuckShit();
+fuckShit(20);
+
+console.log('holaaaaaaaa')
+
+
+
+console.log('holaaaaaaaa')
+
+
+setInterval(fuckShit, 1000)
+
+
+
+console.log('ibi');
 
 console.log('holaaaaaaaa');
 
